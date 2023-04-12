@@ -14,8 +14,8 @@ fn multiplication(a: i32, b: i32) -> i32 {
 }
 
 fn division(x: i32, y: i32) -> i32 {
-    let mut a = x;
-    let b = y;
+    let mut a = x.abs();
+    let b = y.abs();
     let mut result = 0;
 
     loop {
@@ -31,7 +31,12 @@ fn division(x: i32, y: i32) -> i32 {
     }
 
     result += 1;
-    return result;
+    
+    if (x < 0) ^ (y < 0) {
+        -result
+    } else {
+        result
+    }
 }
 
 
