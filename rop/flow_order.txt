@@ -1,0 +1,7 @@
+we have to create for loop
+; ecx will store the length
+; we will decreament ecx using eax
+; access will be (edx + ecx)
+; if ecx goes below zero, the cf will be set
+; we will extract cf using adc 
+;
