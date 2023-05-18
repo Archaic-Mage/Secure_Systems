@@ -80,3 +80,7 @@ Replace the **\<key>** with the given 'Key' specified.
 50_y0u_f0und_y0ur_w4y_Bu7_533m5_1mmP0551bl3
 ```
 
+### Example Image
+
+![Execution Image](some.png)
+

@@ -1,0 +1,9 @@
+#Ghidra Lock File
+#Tue Apr 25 21:40:48 IST 2023
+OS\ Name=Linux
+OS\ Version=5.19.0-40-generic
+Username=mage
+Hostname=ArchaicMage
+<META>\ Supports\ File\ Channel\ Locking=Channel Lock
+OS\ Architecture=amd64
+Timestamp=4/25/23, 9\:40 PM

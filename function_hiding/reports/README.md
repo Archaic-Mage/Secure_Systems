@@ -81,3 +81,7 @@ try_to_find
 ```txt
 hidden@cs6570#sse{try_to_find}
 ```
+
+### Example Image
+
+![Execution Image](some.png)
