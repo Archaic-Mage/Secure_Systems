@@ -1,0 +1,4 @@
+rollnumber: CS20B068
+Admin? true
+Cookie is not expired
+The flag is: IFWJYPSORQ909DFFV6WW
